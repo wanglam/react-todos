@@ -1,0 +1,20 @@
+.todoitem{
+	padding: 5px;
+	border:1px solid black;
+	cursor: pointer;
+}
+
+.editing .input{
+	display: inline;
+}
+.editing .show{
+	display: none;
+}
+
+.input{
+	display: none;
+}
+
+.show{
+	display: inline;
+}
