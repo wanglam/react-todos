@@ -11,10 +11,19 @@
 	display: none;
 }
 
+.complete label{
+	text-decoration: line-through;
+}
+
 .input{
 	display: none;
 }
 
 .show{
 	display: inline;
+}
+
+button.active{
+	background: green;
+	color: white;
 }
